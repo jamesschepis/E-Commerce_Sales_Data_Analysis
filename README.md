@@ -2,6 +2,7 @@
 
 Tools Used: 
 * Python
+
 Project Type:
 * Data Cleaning
 * Exploratory Data Analysis
