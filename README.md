@@ -8,6 +8,8 @@ Project Type:
 * Exploratory Data Analysis
 * Data Visualisation
 
+Link to code:
+
 ## **Table of Contents**
 1. [Project Background](#project-background)  
 2. [Executive Summary](#executive-summary)  
