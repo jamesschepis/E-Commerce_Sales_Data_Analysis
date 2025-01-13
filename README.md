@@ -1,4 +1,4 @@
-# **E-Commerce Sales Data Analysis**
+![image](https://github.com/user-attachments/assets/d212ba33-4f50-4772-9a14-6b16fd4e0e90)![image](https://github.com/user-attachments/assets/b61c2024-89dc-4256-9217-1681f28958ce)# **E-Commerce Sales Data Analysis**
 
 Tools Used: 
 * Python
@@ -42,25 +42,31 @@ These findings highlight opportunities for optimizing product offerings, targeti
 ## **Insights Deep-Dive**
 
 ### **Sales Trends**
-- **Monthly Gross Sales**: Bar charts reveal fluctuations in total revenue across months.  
-- **Daily Gross Sales**: Line graphs track granular day-to-day sales trends.  
-- **City-Based Performance**: The top 10 cities by revenue are highlighted, showing regional contributions over time.  
+- In April observed ₹30 million in sales (~$565K AUD) across ~49,000 orders.
+- Sales have declined for 2 consective months by ~19% total.
+- While Average Order Value (AOV) is trending upwards, there is a significant decline in order counts, from ~49,000 in April down to ~38,000 in May, which is driving the overall decline in sales.
+- Sales (both gross and net) are showing a consistent downward trend.
+- Maharashtra, the largest purchasing state, experienced a 21% (~₹1 million) decline in sales over the previous 2 months, while sales across top 10 states are all generally trending downward.
 
-### **Product Insights**
-- **Product Sales Performance**: Identifies best-selling and underperforming products by category.  
-- **Return Rates**: Analyzes refund, return, and cancellation rates by product category over months, providing insights into customer dissatisfaction.  
+### **Product Performance**
+- 'Set', the top-selling product, has seen a significant decline in both sales of ~₹4.8 million and order volumes of ~6,200 since April, which is the primary contributor to the overall sales downturn.
+- 'Kurta', the second-best-selling product, experienced a significant drop in May down ~₹1.5 million but showed signs of stabilization in June.
+- 'Western Dress', ranked third in sales, saw a notable sales increase of ~₹1.5 million in May. Although it dipped slightly in June, its performance remains ~$1M higher (~32% growth) than its April figures.
+- 'Saree' and 'Bottom' products have experienced spikes in returns. However, as these products are among the bottom three performers, this issue is not an immediate priority.
+- Other products have exhibited a steady return rate in the range of 0.13 to 0.17.
 
 ### **Customer Metrics**
-- **Average Order Value (AOV)**: Tracks monthly AOV to understand customer spending patterns.  
-- **B2B vs B2C Comparison**: Breaks down AOV to compare the spending behaviors of B2B and B2C customers.  
+- B2B customers have a higher Average Order Value (₹698) compared to B2C customers (₹646), despite B2B sales forming a negligible portion of total sales. 
 
 <br>
 
 ## **Recommendations**
-1. **Focus on High-Value Cities**: Prioritize marketing and fulfillment efforts in cities with consistent sales growth.  
-2. **Reduce Product Returns**: Investigate high-return products to improve descriptions, quality, or policies.  
-3. **Target B2B Customers**: Leverage the higher AOV for B2B clients by offering exclusive discounts or loyalty programs.  
-4. **Address Declining Sales**: Examine the significant revenue drop between April and June to identify root causes and rectify them.  
+1. Investigate the drop in order counts, as this is directly contributing to the decline in sales, despite the increase in AOV. Understanding the underlying causes could reveal operational or engagement-related challenges that need to be addressed.
+2. Examine the decline in 'Set' sales, as this product is the primary driver of the overall sales decrease. A deeper investigation into the cause of this decline could help identify whether it's a product-specific issue or if broader factors are at play.
+3. Look into the dip in 'Kurta' sales during May. Understanding whether this dip was seasonal or driven by other factors will be crucial in stabilizing sales moving forward.
+4. Capitalize on the positive momentum of 'Western Dress' by considering an expansion of its offering or enhancing its marketing efforts. Given its strong performance in May, this product presents an opportunity for growth, especially if further promoted.
+5. Investigate business wide and broader market factors contributing to the downward trend in sales. Consider analyzing economic conditions, marketing strategies, or customer preferences to identify possible causes.
+6. Explore strategies such as offering exclusive discounts or loyalty programs to target and expand the B2B customer segment to capitalize on their higher AOV and drive overall sales growth.  
 
 <br>
 
@@ -68,7 +74,14 @@ These findings highlight opportunities for optimizing product offerings, targeti
 1. **Data Quality**: The analysis assumes that the data is accurate and complete. Inconsistencies in data entry (e.g., city names) were corrected during preprocessing.  
 2. **Timeframe Limitations**: The dataset spans only three months, which may not represent long-term trends.  
 3. **External Factors**: No adjustments were made for external influences such as seasonality, promotions, or economic factors.  
-4. **Net Revenue Calculations**: Refunds, returns, and cancellations were excluded from net revenue, but handling or restocking fees were not factored in.  
+4. **Net Revenue Calculations**: Refunds, returns, and cancellations were excluded from net revenue, but handling or restocking fees were not factored in.
+5. Limited Data Availability: The analysis is based on data spanning only three months (April, May, and June). This limited timeframe may not capture seasonal trends, long-term patterns, or anomalies that could provide deeper insights.
+6. Restricted Business View: The analysis was conducted with a partial view of the business. For instance:
+		○ Customer Metrics: The lack of access to customer IDs prevents any detailed analysis of customer behaviour, such as repeat purchase rates, customer segmentation, or churn rates.
+		○ Marketing Campaign Insights: There is minimal to no visibility into marketing campaigns or initiatives, which limits the ability to assess the impact of promotional efforts on sales performance.
+
+These limitations may impact the comprehensiveness of the findings and the precision of the recommendations provided. Further data and access to broader business metrics would enable a more robust and actionable analysis.
+ 
 
 
 
