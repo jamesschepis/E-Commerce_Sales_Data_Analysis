@@ -23,7 +23,7 @@ Link to code:
 <br>
 
 ## **Project Background**
-This project focuses on analyzing sales data obtained on Kaggle from an e-commerce platform to uncover actionable insights. By exploring customer behavior, product performance, and revenue trends, the analysis aims to provide key metrics and visualizations that inform strategic business decisions.
+This project focuses on analysing 2022 sales data obtained on Kaggle from an Indian e-commerce platform to uncover actionable insights. By exploring sales trends, product performance, and customer metrics, the analysis aims to provide key metrics and visualisations that inform recommendations to improve performance across sales, product, and marketing teams.
 
 <br>
 
