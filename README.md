@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d212ba33-4f50-4772-9a14-6b16fd4e0e90)![image](https://github.com/user-attachments/assets/b61c2024-89dc-4256-9217-1681f28958ce)# **E-Commerce Sales Data Analysis**
+# **E-Commerce Sales Data Analysis**
 
 Tools Used: 
 * Python
