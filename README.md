@@ -15,7 +15,7 @@ Link to code:
 2. [Executive Summary](#executive-summary)  
 3. [Insights Deep-Dive](#insights-deep-dive)  
    - [Sales Trends](#sales-trends)  
-   - [Product Insights](#product-insights)  
+   - [Product Performance](#product-performance)  
    - [Customer Metrics](#customer-metrics)  
 4. [Recommendations](#recommendations)  
 5. [Assumptions and Caveats](#assumptions-and-caveats)  
@@ -56,7 +56,7 @@ These findings highlight opportunities for optimizing product offerings, targeti
 - Other products have exhibited a steady return rate in the range of 0.13 to 0.17.
 
 ### **Customer Metrics**
-- B2B customers have a higher Average Order Value (₹698) compared to B2C customers (₹646), despite B2B sales forming a negligible portion of total sales. 
+- B2B customers have a higher Average Order Value (₹698) compared to B2C customers (₹646), though B2B sales form a negligible portion of total sales. 
 
 <br>
 
@@ -71,14 +71,14 @@ These findings highlight opportunities for optimizing product offerings, targeti
 <br>
 
 ## **Assumptions and Caveats**
-1. **Data Quality**: The analysis assumes that the data is accurate and complete. Inconsistencies in data entry (e.g., city names) were corrected during preprocessing.  
-2. **Timeframe Limitations**: The dataset spans only three months, which may not represent long-term trends.  
-3. **External Factors**: No adjustments were made for external influences such as seasonality, promotions, or economic factors.  
-4. **Net Revenue Calculations**: Refunds, returns, and cancellations were excluded from net revenue, but handling or restocking fees were not factored in.
-5. Limited Data Availability: The analysis is based on data spanning only three months (April, May, and June). This limited timeframe may not capture seasonal trends, long-term patterns, or anomalies that could provide deeper insights.
-6. Restricted Business View: The analysis was conducted with a partial view of the business. For instance:
-		○ Customer Metrics: The lack of access to customer IDs prevents any detailed analysis of customer behaviour, such as repeat purchase rates, customer segmentation, or churn rates.
-		○ Marketing Campaign Insights: There is minimal to no visibility into marketing campaigns or initiatives, which limits the ability to assess the impact of promotional efforts on sales performance.
+- **Data Quality**: The analysis assumes that the data is accurate and complete. Inconsistencies in data entry (e.g., city names) were corrected during preprocessing.  
+- **Timeframe Limitations**: The dataset spans only three months, which may not represent long-term trends.  
+- **External Factors**: No adjustments were made for external influences such as seasonality, promotions, or economic factors.  
+- **Net Revenue Calculations**: Refunds, returns, and cancellations were excluded from net revenue, but handling or restocking fees were not factored in.
+- Limited Data Availability: The analysis is based on data spanning only three months (April, May, and June). This limited timeframe may not capture seasonal trends, long-term patterns, or anomalies that could provide deeper insights.
+- Restricted Business View: The analysis was conducted with a partial view of the business. For instance:
+  - Customer Metrics: The lack of access to customer IDs prevents any detailed analysis of customer behaviour, such as repeat purchase rates, customer segmentation, or churn rates.
+  - Marketing Campaign Insights: There is minimal to no visibility into marketing campaigns or initiatives, which limits the ability to assess the impact of promotional efforts on sales performance.
 
 These limitations may impact the comprehensiveness of the findings and the precision of the recommendations provided. Further data and access to broader business metrics would enable a more robust and actionable analysis.
  
