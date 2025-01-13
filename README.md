@@ -28,14 +28,15 @@ This project focuses on analyzing sales data obtained on Kaggle from an e-commer
 <br>
 
 ## **Executive Summary**
-The analysis offers a comprehensive view of e-commerce performance, revealing trends in gross sales, product returns, customer spending, and regional contributions.  
+This analysis covers ~129,000 records and ₹83 million in total sales across three months in 2022. Sales have declined by ~19% over the last two months, driven by a significant drop in order counts (~22% decrease). While Average Order Value (AOV) is increasing, the decline in order volume is the primary factor contributing to the overall sales downturn.
 
-Key highlights include:  
-- Gross sales showed a decline of ~$6 million from April to June, with specific cities contributing significantly to this drop.  
-- B2B customers tend to have a higher average order value (AOV) compared to B2C customers.  
-- Certain products experience disproportionately high return rates, impacting net revenue.  
+Key product performance insights include a ~₹4.8 million drop in 'Set' sales, which is impacting total sales the most. Conversely, 'Western Dress' saw a strong ~₹1.5 million sales increase in May. Additionally, B2B customers have a higher AOV (₹698 vs ₹646 for B2C) but currently form a negligible part of total sales.
 
-These findings highlight opportunities for optimizing product offerings, targeting high-value customer segments, and addressing areas with high return or refund rates.
+### Key Recommendations:
+1. **Investigate the 22% drop in order counts** to address operational or engagement challenges.
+2. **Examine the ₹4.8 million decline in 'Set' sales** to identify whether it's product-specific or part of a broader trend.
+3. **Capitalize on 'Western Dress' performance** by expanding its offering or increasing marketing efforts.
+4. **Target B2B customers** with exclusive promotions to leverage their higher AOV and increase sales.
 
 <br>
 
@@ -61,24 +62,21 @@ These findings highlight opportunities for optimizing product offerings, targeti
 <br>
 
 ## **Recommendations**
-1. Investigate the drop in order counts, as this is directly contributing to the decline in sales, despite the increase in AOV. Understanding the underlying causes could reveal operational or engagement-related challenges that need to be addressed.
-2. Examine the decline in 'Set' sales, as this product is the primary driver of the overall sales decrease. A deeper investigation into the cause of this decline could help identify whether it's a product-specific issue or if broader factors are at play.
-3. Look into the dip in 'Kurta' sales during May. Understanding whether this dip was seasonal or driven by other factors will be crucial in stabilizing sales moving forward.
-4. Capitalize on the positive momentum of 'Western Dress' by considering an expansion of its offering or enhancing its marketing efforts. Given its strong performance in May, this product presents an opportunity for growth, especially if further promoted.
-5. Investigate business wide and broader market factors contributing to the downward trend in sales. Consider analyzing economic conditions, marketing strategies, or customer preferences to identify possible causes.
-6. Explore strategies such as offering exclusive discounts or loyalty programs to target and expand the B2B customer segment to capitalize on their higher AOV and drive overall sales growth.  
+- **Investigate the drop in order counts, which have declined by ~22% from April to May, directly driving the ~₹6 million (~19%) total sales decrease.** Understanding the root cause of this decline will help address operational or engagement-related challenges. Consider analysing economic conditions, marketing strategies, or customer preferences to identify possible causes.
+- **Examine the ₹4.8 million (16%) sales decline and ~6,200 drop in order volumes for 'Set,' the top-selling product.** Determining whether the issue is product-specific or indicative of broader factors is critical for reversing this trend.
+- **Analyze the ₹1.5 million sales dip for 'Kurta' in May and its stabilization in June.** This will help determine if the decline was seasonal or influenced by other factors, enabling effective planning for consistent sales.
+- **Capitalise on the ₹1.5 million (~32%) sales growth of 'Western Dress' in May by expanding its product line or enhancing marketing campaigns.** This product remains a strong performer and offers an opportunity for further revenue growth if promoted effectively.
+- **Expand the B2B customer segment to leverage their higher Average Order Value (₹698 compared to ₹646 for B2C).** Offering exclusive discounts, targeted promotions, or loyalty programs could drive additional sales and diversify revenue streams. 
 
 <br>
 
 ## **Assumptions and Caveats**
-- **Data Quality**: The analysis assumes that the data is accurate and complete. Inconsistencies in data entry (e.g., city names) were corrected during preprocessing.  
-- **Timeframe Limitations**: The dataset spans only three months, which may not represent long-term trends.  
+- **Limited Data Availability**: The analysis is based on data spanning only three months (April, May, and June). This limited timeframe may not capture seasonal trends, long-term patterns, or anomalies that could provide deeper insights.
 - **External Factors**: No adjustments were made for external influences such as seasonality, promotions, or economic factors.  
 - **Net Revenue Calculations**: Refunds, returns, and cancellations were excluded from net revenue, but handling or restocking fees were not factored in.
-- Limited Data Availability: The analysis is based on data spanning only three months (April, May, and June). This limited timeframe may not capture seasonal trends, long-term patterns, or anomalies that could provide deeper insights.
-- Restricted Business View: The analysis was conducted with a partial view of the business. For instance:
-  - Customer Metrics: The lack of access to customer IDs prevents any detailed analysis of customer behaviour, such as repeat purchase rates, customer segmentation, or churn rates.
-  - Marketing Campaign Insights: There is minimal to no visibility into marketing campaigns or initiatives, which limits the ability to assess the impact of promotional efforts on sales performance.
+- **Restricted Business View**: The analysis was conducted with a partial view of the business. For instance:
+  - **Customer Metrics**: The lack of access to customer IDs prevents any detailed analysis of customer behaviour, such as repeat purchase rates, customer segmentation, or churn rates.
+  - **Marketing Campaign Insights**: There is minimal to no visibility into marketing campaigns or initiatives, which limits the ability to assess the impact of promotional efforts on sales performance.
 
 These limitations may impact the comprehensiveness of the findings and the precision of the recommendations provided. Further data and access to broader business metrics would enable a more robust and actionable analysis.
  
