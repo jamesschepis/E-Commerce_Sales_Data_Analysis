@@ -8,7 +8,7 @@ Project Type:
 * Exploratory Data Analysis
 * Data Visualisation
 
-Link to code here
+Link to code [here](https://github.com/jamesschepis/E-Commerce_Sales_Data_Analysis/blob/3499d1d7e38322cd73146f348482034edb76d53d/KaggleProject.ipynb)
 
 ## **Table of Contents**
 1. [Project Background](#project-background)  
