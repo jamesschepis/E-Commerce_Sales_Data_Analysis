@@ -57,7 +57,7 @@ Key product performance insights include a ~₹4.8 million drop in 'Set' sales, 
 - Other products have exhibited a steady return rate in the range of 0.13 to 0.17.
 
 ### **Customer Metrics**
-- B2B customers have a higher Average Order Value (₹698) compared to B2C customers (₹646), though B2B sales form a negligible portion of total sales. 
+- B2B customers have a higher Average Order Value (₹698) compared to B2C customers (₹646), though B2B sales form a negligible portion of total sales (<1%). 
 
 <br>
 
