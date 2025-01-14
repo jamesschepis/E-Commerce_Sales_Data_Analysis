@@ -34,9 +34,10 @@ Key product performance insights include a ~₹4.8 million drop in 'Set' sales, 
 
 ### Key Recommendations:
 1. **Investigate the 22% drop in order counts** to address operational or engagement challenges.
-2. **Examine the ₹4.8 million decline in 'Set' sales** to identify whether it's product-specific or part of a broader trend.
-3. **Capitalize on 'Western Dress' performance** by expanding its offering or increasing marketing efforts.
-4. **Target B2B customers** with exclusive promotions to leverage their higher AOV and increase sales.
+2. **Diversify the product portfolio** to reduce reliance on 'Set' and 'Kurta,' which account for 77% of sales and orders.
+3. **Examine the ₹4.8 million decline in 'Set' sales** to identify whether it's product-specific or part of a broader trend.
+4. **Capitalize on 'Western Dress' performance** by expanding its offering or increasing marketing efforts.
+5. **Target B2B customers** with exclusive promotions to leverage their higher AOV and increase sales.
 
 <br>
 
@@ -50,6 +51,7 @@ Key product performance insights include a ~₹4.8 million drop in 'Set' sales, 
 - Maharashtra, the largest purchasing state, experienced a 21% (~₹1 million) decline in sales over the previous 2 months, while sales across top 10 states are all generally trending downward.
 
 ### **Product Performance**
+- Two products, 'Set' and 'Kurta,' account for 77% of total sales and orders. Additionally, four out of the nine products offered contribute 98% of total sales and 97% of orders, indicating a highly concentrated product portfolio.
 - 'Set', the top-selling product, has seen a significant decline in both sales of ~₹4.8 million and order volumes of ~6,200 since April, which is the primary contributor to the overall sales downturn.
 - 'Kurta', the second-best-selling product, experienced a significant drop in May down ~₹1.5 million but showed signs of stabilization in June.
 - 'Western Dress', ranked third in sales, saw a notable sales increase of ~₹1.5 million in May. Although it dipped slightly in June, its performance remains ~$1M higher (~32% growth) than its April figures.
@@ -63,6 +65,8 @@ Key product performance insights include a ~₹4.8 million drop in 'Set' sales, 
 
 ## **Recommendations**
 - **Investigate the drop in order counts, which have declined by ~22% from April to May, directly driving the ~₹6 million (~19%) total sales decrease.** Understanding the root cause of this decline will help address operational or engagement-related challenges. Consider analysing economic conditions, marketing strategies, or customer preferences to identify possible causes.
+- **Diversify the Product Portfolio**: With 77% of sales and orders concentrated in just two products, **introducing new product lines, particularly accessories, could provide upsell opportunities and reduce dependency on the top-performing items.** Accessories complement existing offerings and could drive incremental sales.
+- **Optimize the Existing Product Mix**: Focus marketing and promotional efforts on the underperforming products to **identify whether they have untapped potential or should be phased out in favor of higher-demand items.** This will ensure that resources are allocated effectively to maximize returns.
 - **Examine the ₹4.8 million (16%) sales decline and ~6,200 drop in order volumes for 'Set,' the top-selling product.** Determining whether the issue is product-specific or indicative of broader factors is critical for reversing this trend.
 - **Analyze the ₹1.5 million sales dip for 'Kurta' in May and its stabilization in June.** This will help determine if the decline was seasonal or influenced by other factors, enabling effective planning for consistent sales.
 - **Capitalise on the ~32% sales growth of 'Western Dress' in May by expanding its product line or enhancing marketing campaigns.** This product remains a strong performer and offers an opportunity for further revenue growth if promoted effectively.
