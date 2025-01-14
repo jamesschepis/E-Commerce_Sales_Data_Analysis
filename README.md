@@ -12,7 +12,7 @@ Link to code [here](https://github.com/jamesschepis/E-Commerce_Sales_Data_Analys
 
 ## **Table of Contents**
 1. [Project Background](#project-background)  
-2. [Executive Summary](#executive-summary)  
+2. [⭐ Executive Summary](#executive-summary)  
 3. [Insights Deep-Dive](#insights-deep-dive)  
    - [Sales Trends](#sales-trends)  
    - [Product Performance](#product-performance)  
