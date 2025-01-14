@@ -50,6 +50,11 @@ Key product performance insights include a ~₹4.8 million drop in 'Set' sales, 
 - Sales (both gross and net) are showing a consistent downward trend.
 - Maharashtra, the largest purchasing state, experienced a 21% (~₹1 million) decline in sales over the previous 2 months, while sales across top 10 states are all generally trending downward.
 
+![image](https://github.com/user-attachments/assets/e94d0a88-aaa3-45ca-ac7f-881fc03653e1)
+![image](https://github.com/user-attachments/assets/008f295e-5c52-4ab5-969e-a73785f3d843)
+![image](https://github.com/user-attachments/assets/d2f3efee-d241-4a36-8031-f7cd02a4d122)
+
+
 ### **Product Performance**
 - Two products, 'Set' and 'Kurta,' account for 77% of total sales and orders. Additionally, four out of the nine products offered contribute 98% of total sales and 97% of orders, indicating a highly concentrated product portfolio.
 - 'Set', the top-selling product, has seen a significant decline in both sales of ~₹4.8 million and order volumes of ~6,200 since April, which is the primary contributor to the overall sales downturn.
@@ -58,8 +63,14 @@ Key product performance insights include a ~₹4.8 million drop in 'Set' sales, 
 - 'Saree' and 'Bottom' products have experienced spikes in returns. However, as these products are among the bottom three performers, this issue is not an immediate priority.
 - Other products have exhibited a steady return rate in the range of 0.13 to 0.17.
 
+![image](https://github.com/user-attachments/assets/eeef8bb7-bd1a-4c90-ba46-cc46222bf463)
+![image](https://github.com/user-attachments/assets/2c47425a-b29f-46d2-9341-f2ae665620f1)
+![image](https://github.com/user-attachments/assets/28539219-ef77-46d3-8279-8cdbb3805a38)
+
 ### **Customer Metrics**
 - B2B customers have a higher Average Order Value (₹698) compared to B2C customers (₹646), though B2B sales form a negligible portion of total sales (<1%). 
+
+![image](https://github.com/user-attachments/assets/ec5b802d-6fc7-4157-9e02-0c746b2e5198)
 
 <br>
 
