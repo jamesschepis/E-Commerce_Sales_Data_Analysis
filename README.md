@@ -28,7 +28,7 @@ This project focuses on analysing 2022 sales data obtained on Kaggle from an Ind
 <br>
 
 ## **Executive Summary**
-This analysis covers ~129,000 records and ₹83 million in total sales (~$1.5M AUD) across three months in 2022. Sales have declined by ~19% over the last two months, driven by a significant drop in order counts (~22% decrease). While Average Order Value (AOV) is increasing, the decline in order volume is the primary factor contributing to the overall sales downturn.
+This analysis covers ~129,000 records and ₹83 million in total sales (\~$1.5M AUD) across three months in 2022. Sales have declined by ~19% over the last two months, driven by a significant drop in order counts (~22% decrease). While Average Order Value (AOV) is increasing, the decline in order volume is the primary factor contributing to the overall sales downturn.
 
 Key product performance insights include a ~₹4.8 million drop in 'Set' sales, which is impacting total sales the most. Conversely, 'Western Dress' saw a strong ~₹1.5 million sales increase in May. Additionally, B2B customers have a higher AOV (₹698 vs ₹646 for B2C) but currently form a negligible part of total sales.
 
